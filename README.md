@@ -28,13 +28,13 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Scrimba-JavaScriptCoursePracticeTime3.git
+git clone https://github.com/BhoomiGohil/Scrimba-JS-Hands-On-Practice.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd Scrimba-JavaScriptCoursePracticeTime3
+cd Scrimba-JS-Hands-On-Practice
 ```
 
 3. **Open the `index.html` file in your web browser.**
@@ -56,7 +56,6 @@ Click on the "Go Live" option to run the project.
 
 1. Launch the application in your web browser.
 2. Navigate through the coding challenges and complete them.
-3. Utilize the real-time feedback feature to refine your JavaScript skills.
 
 ## Technologies Used
 
